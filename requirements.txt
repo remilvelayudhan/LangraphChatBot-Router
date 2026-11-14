@@ -1,0 +1,4 @@
+ipykernel
+langchain[anthropic]
+langgraph
+python-dotenv
