@@ -124,11 +124,9 @@ Git & GitHub
 - Interested in agentic systems, automation, and thoughtful UX
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/remilvelayudhan"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/remilcv/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
-
-> Update the GitHub and LinkedIn links with your real profile URLs.
 
 ---
 
