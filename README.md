@@ -28,6 +28,36 @@
 
 ---
 
+## 📦 Project overview
+
+This repository showcases a lightweight LangGraph-based routing pattern for conversational AI systems. The architecture classifies each user request and routes it to the most appropriate logic path—such as a logical or therapist-style response flow—before producing the final answer.
+
+It is designed as a practical foundation for:
+
+- multi-intent chatbots
+- domain-specific routing agents
+- branching LLM workflows
+- modular AI system design
+
+---
+
+## 🚀 Getting started
+
+```bash
+# create and activate a virtual environment with uv
+uv venv
+source .venv/bin/activate   # Linux/macOS
+# or .venv\Scripts\activate  # Windows PowerShell
+
+# install dependencies
+uv add -r requirements.txt
+
+# run the project entry point
+uv run langraphchatbot-router
+```
+
+---
+
 ## 🔀 Architecture I work with
 
 ```mermaid
