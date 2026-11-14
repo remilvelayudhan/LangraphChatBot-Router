@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Remil+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder;Designing+smart+agents+and+routers" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Building intelligent systems that think, route, and respond.</h1>
+<h1 align="center">AI Engineer | Building Smarter Agentic Systems</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python" alt="Python 3.12" />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I build conversational AI, agent workflows, and routing systems that turn complex ideas into useful, scalable experiences.
+  I design intelligent routing systems, LLM workflows, and agent-based applications that turn ambiguity into action.
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🧠 Core focus
 
 - Agentic workflows and orchestration
-- LLM-powered chat and routing systems
+- LLM-powered chat and intelligent routing
 - Prompt engineering and conversational UX
 - LangChain / LangGraph application design
 - End-to-end AI product prototyping
@@ -91,10 +91,10 @@ Git & GitHub
 
 ## 📌 What I’m building
 
-- Smart AI assistants that understand intent and context
+- AI assistants that understand intent and context
 - Routing layers for task-specific agents
-- Reliable pipelines for conversational logic
-- Practical LLM apps that are useful beyond demos
+- Reliable conversational logic for production use
+- Practical LLM products that go beyond demos
 
 ---
 
@@ -120,8 +120,8 @@ Git & GitHub
 ## 🤝 Let’s connect
 
 - Open to AI engineering collaborations
-- Building practical LLM products
-- Interested in agentic systems, automation, and thoughtful UX
+- Building practical LLM products and intelligent workflows
+- Interested in agentic systems, automation, and thoughtful product UX
 
 <p align="center">
   <a href="https://github.com/remilvelayudhan"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
